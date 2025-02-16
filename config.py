@@ -24,9 +24,9 @@ LOGGER_ID = int(getenv("LOGGER_ID", None)) # Chat id of a group for logging bot'
 
 OWNER_ID = int(getenv("OWNER_ID", 7403621976)) # Get this value from @MissRose_bot on Telegram by /id
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SYNTAX_WORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VIP_RAM_HACKER_PR")
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Guppppp_Shuppppp")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VIP_RAM_HACKER_PR")
 
 # Get your pyrogram v2 session from https://telegram.tools/session-string-generator#pyrogram on Telegram
 
@@ -87,7 +87,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY") # Get it from http://dashboard.heroku.
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/syntaxworldcodes/VIKRANT_MUSIC",
+    "https://github.com/fydyuviivvivivvi/JAANU_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
