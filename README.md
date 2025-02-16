@@ -1,6 +1,6 @@
 <h3 align="center">
-<a href="https://github.com/syntaxworldcodes/VIKRANT_MUSIC"></a>
-
+<a href="https://github.com/fydyuviivvivivvi/JAANU_MUSIC"></a>
+    
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/RAM_HACKER_RP)
 
 
